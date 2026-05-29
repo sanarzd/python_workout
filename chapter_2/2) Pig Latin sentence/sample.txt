@@ -1,0 +1,10 @@
+Python is a great language
+This is a test
+Testing is very important
+Machine learning is awesome
+Programming needs practice
+Computer science is fun
+Data science requires math
+Algorithms are fundamental
+Code quality matters always
+Documentation helps everyone
